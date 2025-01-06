@@ -1,0 +1,6 @@
+// console.log(null>0)
+// console.log(null==0)
+// console.log(null>=0)
+const id =Symbol('123')
+const anid= Symbol('123')
+console.log(id == anid)
